@@ -1,5 +1,5 @@
 header {
-	background: #E6E6FA;
+	background: #FFDAB9;
 	padding: 20px 0;
 }
 
@@ -9,18 +9,17 @@ header {
 	margin: 0 auto;
 }
 .logo{
-   width: 60%;
-
+   width: 57%;
 
 
 }
 
+body {
+   background: #FFDAB9;
 
 
 
-
-
-
+}
 nav {
 	position: absolute;
 	top: 110px;
